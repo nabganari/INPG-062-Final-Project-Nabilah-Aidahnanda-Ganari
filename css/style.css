@@ -1,0 +1,207 @@
+/* all */   
+
+* {
+    margin : 0;
+    padding : 0;
+    box-sizing : Border-box;
+    font-family: 'Poppins', sans-serif;
+    background-color: #F3F0E8;
+    color: #2B2B2B;
+    }
+
+.container-fluid{
+    padding : 0  !important;
+    margin: 0   !important;
+}
+
+/* navigation bar     */
+.brand-logo-nag{
+    margin-right: 0%;
+    margin-left: 0%;
+}
+
+a.nav-link {
+    color: #2B2B2B !important;
+}
+
+a.nav-link.active{
+    color: #ffffff !important;
+    background-color:#3F596B !important;
+}
+
+a.nav-link:hover{
+    background-color: #9DD3E8;
+}
+
+/* .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color:#3F596B !important;
+} */
+
+.nav-logo-nag{
+    height: 120px;
+}
+
+/* jumbotron */
+.jumbotron-nag img{
+    width: 100vw;
+}
+
+div .content-jumbotron-nag{
+    position: absolute;
+    background-color:transparent;
+    top: 320px;
+    color: #ffffff;   
+}
+
+div .content-jumbotron-nag h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 64px;
+    letter-spacing: 2px;
+    background-color:transparent;
+}
+
+div .content-jumbotron-nag p{
+    font-size: 28px;
+    background-color:transparent;
+    color: #ffffff;  
+}
+
+div .content-jumbotron-nag button{
+    background-color: #67C6EA;
+    border-color:  #67C6EA;
+}
+
+
+/* detail content pertama */
+.content-detail-nag{
+    padding-left: 0  !important;
+    padding-right: 0   !important;
+    margin-top: 70px;
+    margin-bottom: 70px;
+ }
+
+ .content-detail-nag .img-content-detail-nag {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 0px;
+    margin-right: 0px ;
+}
+
+.content-detail-nag .img-content-detail-nag img{
+    width: 800px;
+}
+
+div.container-content-detail-nag{
+    /* display: flex;
+    justify-content: flex-start;
+    margin left = 40%; */
+    position: absolute;
+    top: 1100px;
+    margin-left: 15%;
+    margin-right: 40%;
+}
+
+div.container-content-detail-nag p,h3{
+    color: black;
+}
+
+div.container-content-detail-nag button{
+    background-color: #67C6EA;
+    border-color:  #67C6EA;
+}
+
+
+/* content kedua best destination */
+
+/* div.content-best-destination-nag > {
+    background-color: #3F596B;
+    height: 586px;
+} */
+
+div.content-best-destination-nag > div.bg-content-bd-nag{
+    background-color: #3F596B; 
+    height: 386px;
+}
+
+div.content-best-destination-nag > div.bg-content-bd-nag > h3,p{
+    background-color: transparent;
+    color: #ffffff;
+}
+
+div.card-body{
+    background-color: #ffff;
+    }
+
+div.card-body> h5, .card-link{
+background-color: #ffff;
+}
+
+div.card-body > p{
+ color: #848484;
+
+}
+
+div.card-content-best-destination-nag{
+    background-color: transparent;
+}
+
+div.btn-more-best-destination-nag{
+    margin-top: 350px;
+}
+
+footer{
+    background-color: #3F596B; 
+}
+
+footer> div{
+    background-color: #3F596B; 
+    /* height: 586px; */
+}
+
+footer> div img{
+    background-color: #3F596B; 
+    /* height: 586px; */
+}
+
+
+div.logo-footer img{
+    height: 80px;
+}
+
+div.logo-loc img{
+    height: 25px;
+}
+
+div.logo-wa img{
+    height: 25px;
+}
+
+div.footer-link-menu-nag{
+    margin-left: 58%;
+    margin-right: 30%;
+    background-color: #3F596B;
+}
+
+
+div.sosmed-nag img{
+width: 60px;
+}
+
+div.line{
+border-bottom: 1px solid #ffffff;
+}
+
+div.left-content-footer-nag{
+    background-color: #3F596B;
+}
+
+div.left-content-footer-nag > div, h4{
+    background-color: #3F596B;
+}
+
+div.footer-link-menu-nag > a{
+    background-color: #3F596B;
+    text-decoration: none;
+    color: #ffffff;
+}
