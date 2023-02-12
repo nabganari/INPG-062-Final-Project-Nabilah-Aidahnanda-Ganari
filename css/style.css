@@ -177,6 +177,10 @@ div.logo-wa img{
     height: 25px;
 }
 
+div.logo-gmail img{
+    height: 22px;
+}
+
 div.footer-link-menu-nag{
     margin-left: 58%;
     margin-right: 30%;
@@ -205,3 +209,8 @@ div.footer-link-menu-nag > a{
     text-decoration: none;
     color: #ffffff;
 }
+
+div.header-contact-us-nag h1{
+    background-color: #FFD05B;
+}
+
