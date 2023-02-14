@@ -227,4 +227,6 @@ div.img-content-about-us > img {
     background-color: transparent;
 }
 
-
+a.nav-link.nav-tab-nag.active {
+    background-color: #67C6EA !important;
+}
