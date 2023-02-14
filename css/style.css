@@ -217,3 +217,14 @@ div.header-contact-us-nag h1{
 div.img-content-about-us > img {
     width: 10px;
 }
+
+
+.carousel-caption{
+    background-color: transparent;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: transparent;
+}
+
+
