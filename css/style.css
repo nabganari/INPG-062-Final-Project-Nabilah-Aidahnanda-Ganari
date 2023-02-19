@@ -242,3 +242,27 @@ div.title-destination-package-nag{
     width: 430px ;
     opacity: 0.5;
 }
+
+div.destination-domestic img{
+    width: 1000px;
+}
+
+div.title-destination-domestic{
+    background-color: #FFD05B;
+    height: 150px;
+    width: 1000px ;
+    opacity: 0.5;
+}
+
+div.destination-domestic-nag2 img{
+    width: 370px; 
+    height: 212px; 
+    background-color: aqua;
+}
+
+div.title-destination-domestic-nag2{
+    background-color: #FFD05B;
+    width: 370px ;
+    height: 55px;
+    opacity: 0.5;
+}
