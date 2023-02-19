@@ -230,3 +230,15 @@ div.img-content-about-us > img {
 a.nav-link.nav-tab-nag.active {
     background-color: #67C6EA !important;
 }
+
+div.destination-package-nag img{
+    width: 430px;
+    height: 550px;
+}
+
+div.title-destination-package-nag{
+    background-color: #FFD05B;
+    height: 100px;
+    width: 430px ;
+    opacity: 0.5;
+}
