@@ -266,3 +266,28 @@ div.title-destination-domestic-nag2{
     height: 55px;
     opacity: 0.5;
 }
+
+h1.header-blog-nag{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: xxx-large;
+}
+
+div.container-column-blog{
+    width: 370px; 
+    height: 1300px; 
+}
+
+div.title-container-column-blog{
+    width: 370px; height: 100px; background-color: #FFD05B;
+}
+
+div.gambar-nag{
+    width: 370px; 
+    height: 500px; 
+ }
+
+div.gambar-nag-2{
+    width: 370px; 
+    height: 350px;
+ }
