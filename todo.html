@@ -65,18 +65,30 @@
                     To-Do List Trip Destination
                 </h1>
                 <p class="text-center">let's input your planning to do list for your trip</p>
-                <div class="input-group" style="position: absolute; top: 300px;">
-                    <input type="text" name="text" id="text" class="form-control" placeholder="Input your list trip"
-                        aria-label="Recipient's username" aria-describedby="button-addon2">
-                    <input type="hidden" id="saveIndex" class="form-control" placeholder="Input your list trip"
-                        aria-label="Recipient's username" aria-describedby="add-task-btn">
-                    <button class="btn btn-outline-secondary" type="button" id="add-task-btn">Add list</button>
-                    <button class="btn btn-outline-secondary" style="display: none" type="button"
-                        id="save-todo-btn">Edit List</button>
+                <div class="d-flex justify-content-center align-item-center" style="background-color: transparent;">
+                    <div class="container p-0">
+                        <div class="input-group">
+                            <input type="text" name="text" id="text" class="form-control"
+                                placeholder="Input your list trip" aria-label="Recipient's username"
+                                aria-describedby="button-addon2" style="width: 10rem
+                            ;">
+                            <input type="hidden" id="saveIndex" class="form-control" placeholder="Input your list trip"
+                                aria-label="Recipient's username" aria-describedby="add-task-btn">
+                            <button class="btn btn-outline-secondary" style="background-color: #1C73B2;color: white;"
+                                type=" button" id="add-task-btn">Add
+                                list</button>
+                            <button class="btn btn-outline-secondary"
+                                style="display: none; width: 10rem; background-color: #069662; color: white;"
+                                type="button" id="save-todo-btn">Edit
+                                List</button>
+                        </div>
+                    </div>
                 </div>
             </div>
+
         </div>
         <div id="listBox"></div>
+        <div class="p-5"></div>
     </main>
     <footer class="">
         <div class=" d-flex flex-row">
